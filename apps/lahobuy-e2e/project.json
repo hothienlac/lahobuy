@@ -1,0 +1,9 @@
+{
+  "name": "lahobuy-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/lahobuy-e2e/src",
+  "implicitDependencies": ["lahobuy"],
+  "// targets": "to see all targets run: nx show project lahobuy-e2e --web",
+  "targets": {}
+}
